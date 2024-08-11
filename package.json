@@ -10,5 +10,11 @@
     "json-server"
   ],
   "author": "Arif",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
 }
