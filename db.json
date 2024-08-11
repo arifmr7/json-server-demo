@@ -1,0 +1,132 @@
+{
+    "teamInfoList": [
+      {
+        "teamId": 16,
+        "teamName": "AURA ESPORTS",
+        "isShowLogo": false,
+        "logoPicUrl": "",
+        "killNum": 1,
+        "liveMemberNum": 0
+      },
+      {
+        "teamId": 9,
+        "teamName": "MORPH GGG",
+        "isShowLogo": false,
+        "logoPicUrl": "",
+        "killNum": 3,
+        "liveMemberNum": 0
+      },
+      {
+        "teamId": 4,
+        "teamName": "GPBR ESPORTS",
+        "isShowLogo": false,
+        "logoPicUrl": "",
+        "killNum": 7,
+        "liveMemberNum": 0
+      },
+      {
+        "teamId": 15,
+        "teamName": "DU ESPORTS",
+        "isShowLogo": false,
+        "logoPicUrl": "",
+        "killNum": 1,
+        "liveMemberNum": 0
+      },
+      {
+        "teamId": 12,
+        "teamName": "HFX ESPORTS",
+        "isShowLogo": false,
+        "logoPicUrl": "",
+        "killNum": 3,
+        "liveMemberNum": 0
+      },
+      {
+        "teamId": 2,
+        "teamName": "RRQ RYU",
+        "isShowLogo": false,
+        "logoPicUrl": "",
+        "killNum": 6,
+        "liveMemberNum": 0
+      },
+      {
+        "teamId": 6,
+        "teamName": "ONIC ESPORTS",
+        "isShowLogo": false,
+        "logoPicUrl": "",
+        "killNum": 0,
+        "liveMemberNum": 0
+      },
+      {
+        "teamId": 14,
+        "teamName": "21 ESPORTS",
+        "isShowLogo": false,
+        "logoPicUrl": "",
+        "killNum": 3,
+        "liveMemberNum": 3
+      },
+      {
+        "teamId": 1,
+        "teamName": "BTR RA",
+        "isShowLogo": false,
+        "logoPicUrl": "",
+        "killNum": 1,
+        "liveMemberNum": 0
+      },
+      {
+        "teamId": 10,
+        "teamName": "GPX",
+        "isShowLogo": false,
+        "logoPicUrl": "",
+        "killNum": 1,
+        "liveMemberNum": 0
+      },
+      {
+        "teamId": 8,
+        "teamName": "GEEK FAM",
+        "isShowLogo": false,
+        "logoPicUrl": "",
+        "killNum": 3,
+        "liveMemberNum": 0
+      },
+      {
+        "teamId": 11,
+        "teamName": "EVOS REBORN",
+        "isShowLogo": false,
+        "logoPicUrl": "",
+        "killNum": 11,
+        "liveMemberNum": 4
+      },
+      {
+        "teamId": 5,
+        "teamName": "DG ESPORTS",
+        "isShowLogo": false,
+        "logoPicUrl": "",
+        "killNum": 2,
+        "liveMemberNum": 4
+      },
+      {
+        "teamId": 7,
+        "teamName": "BNW88",
+        "isShowLogo": false,
+        "logoPicUrl": "",
+        "killNum": 1,
+        "liveMemberNum": 2
+      },
+      {
+        "teamId": 3,
+        "teamName": "ELANG",
+        "isShowLogo": false,
+        "logoPicUrl": "",
+        "killNum": 2,
+        "liveMemberNum": 0
+      },
+      {
+        "teamId": 13,
+        "teamName": "VOIN ESPORTS",
+        "isShowLogo": false,
+        "logoPicUrl": "",
+        "killNum": 4,
+        "liveMemberNum": 0
+      }
+    ]
+  }
