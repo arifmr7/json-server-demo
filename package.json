@@ -1,0 +1,14 @@
+{
+  "name": "json-server-demo",
+  "version": "1.0.0",
+  "description": "sample API",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "json-server"
+  ],
+  "author": "Arif",
+  "license": "MIT"
+}
